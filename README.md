@@ -10,6 +10,9 @@ This project allows users to search for countries based on their currency codes.
 3. Click the "Search" button.
 4. View the result below the button.
 
+ex-> INR search provides the image of country buthan and india
+
+
 ## Technologies Used
 
 - HTML
@@ -18,4 +21,3 @@ This project allows users to search for countries based on their currency codes.
 
 Feel free to customize and expand upon this project as you continue to learn and explore web development!
 
-ex-> INR search provides the image of country buthan and india
